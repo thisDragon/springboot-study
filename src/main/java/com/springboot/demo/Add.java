@@ -1,6 +1,4 @@
 package com.springboot.demo;
 
-public class Test {
-
-
+public class Add {
 }
